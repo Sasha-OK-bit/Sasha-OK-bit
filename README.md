@@ -12,7 +12,13 @@
 </p>
 
 <h2> OS Systems </h2>
+<p>
+ <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
+ <a href="https://www.microsoft.com/en-ca/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows"></a>
+</p>
 
+<h2> </h2>
+</h2>
 <p>
   
 </p>
